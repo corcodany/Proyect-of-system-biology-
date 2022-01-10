@@ -1,5 +1,6 @@
 # Proyect-of-system-biology
-## Idea de articulos sobre Sistemas Ltka-Volterra
+## Definicion de tema 10-01-22
+### Idea de articulos sobre Sistemas Ltka-Volterra
 SISTEMAS DINÁMICOS. APLICACIONES A LAS REDES COMPLEJAS.
 ANALISIS CUALITATIVO DE SISTEMAS DE ECUACIONES DIFERENCIALES. APLICACIONES A MODELOS DE LOTKA-VOLTERRA N-DIMENSIONALES
 
