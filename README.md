@@ -1,1 +1,0 @@
-# Proyect-of-system-biology-
