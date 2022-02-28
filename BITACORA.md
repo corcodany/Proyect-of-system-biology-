@@ -42,3 +42,7 @@ out <- as.data.frame(ode(func = LotVmod, y = State, parms = Pars, times = Time))
 
 matplot(out[,-1], type = "l", xlab = "time", ylab = "population")
 legend("topright", c("Cute bunnies", "Rabid foxes"), lty = c(1,2), col = c(1,2), box.lwd = 0)
+
+## Mejorar la libreria en Rstudio
+Utilizaré esta documentación de R para mejorar el script, ya que es para ecucaciones diferenciales, y Lotka-Voleterra funciona con ecuaciones diferenciales
+https://desolve.r-forge.r-project.org/
