@@ -51,6 +51,7 @@ https://desolve.r-forge.r-project.org/
 Se utilizará esta página como refencia, cambiando las variables y el tipo de interacción.
 Esta libreria en github explica mejor(https://github.com/smkalami/lotka-volterra-in-python/blob/master/final-plots.png) asi que, intentare complementar el codigo para metenerle mas variables y los valores.
 
+///
 >>> import numpy as np
 import matplotlib.pyplot as plt
 
@@ -111,3 +112,4 @@ plt.ylabel('Predator')
 plt.title('Phase Portrait')
 
 plt.show()
+///
