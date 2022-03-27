@@ -53,3 +53,5 @@ Esta libreria en github explica mejor(https://github.com/smkalami/lotka-volterra
 
 Usar este articulo como refencia
 https://www.sciencedirect.com/science/article/pii/S0021782418300898
+
+Video que explica mejor las funciones de python https://youtu.be/2f5aRTBmm10 
