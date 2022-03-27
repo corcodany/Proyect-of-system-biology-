@@ -23,7 +23,7 @@ Se me ocurre idear un sistema tipo Lotka Volterra, en el caso de un sistema de c
 
 El paso a comenzar es generar un sistema sin tomar en cuenta la etapa de vida de los insectos y simplemente generar un sistema con dos variables.
 
-## Probar libreria en Rstudio
+## Probar libreria en Rstudio 7-02-22
  library(deSolve)
 
 LotVmod <- function (Time, State, Pars) {
@@ -43,15 +43,17 @@ out <- as.data.frame(ode(func = LotVmod, y = State, parms = Pars, times = Time))
 matplot(out[,-1], type = "l", xlab = "time", ylab = "population")
 legend("topright", c("Cute bunnies", "Rabid foxes"), lty = c(1,2), col = c(1,2), box.lwd = 0)
 
-## Mejorar la libreria en Rstudio
+## Mejorar la libreria en Rstudio 21-02-22
 Utilizaré esta documentación de R para mejorar el script, ya que es para ecucaciones diferenciales, y Lotka-Voleterra funciona con ecuaciones diferenciales
 https://desolve.r-forge.r-project.org/
 
-## Rstudio no ha funcionado, se intentara llevar el proceso a phyton
+## Rstudio no ha funcionado, se intentara llevar el proceso a phyton 7-03-22
 Se utilizará esta página como refencia, cambiando las variables y el tipo de interacción.
 Esta libreria en github explica mejor(https://github.com/smkalami/lotka-volterra-in-python/blob/master/final-plots.png) asi que, intentare complementar el codigo para metenerle mas variables y los valores.
 
-Usar este articulo como refencia
+## Usar este articulo como refencia 14-03-22
 https://www.sciencedirect.com/science/article/pii/S0021782418300898
 
 Video que explica mejor las funciones de python https://youtu.be/2f5aRTBmm10 
+
+## Agregar una interacción mas con los resultados de la primer interacción
