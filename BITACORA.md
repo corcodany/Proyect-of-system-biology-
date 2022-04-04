@@ -49,7 +49,7 @@ https://desolve.r-forge.r-project.org/
 
 ## Rstudio no ha funcionado, se intentara llevar el proceso a phyton 7-03-22
 Se utilizará esta página como refencia, cambiando las variables y el tipo de interacción.
-Esta libreria en github explica mejor(https://github.com/smkalami/lotka-volterra-in-python/blob/master/final-plots.png) asi que, intentare complementar el codigo para metenerle mas variables y los valores.
+Esta libreria en github explica mejor(https://github.com/smkalami/lotka-volterra-in-python) asi que, intentare complementar el codigo para metenerle mas variables y los valores.
 
 ## Usar este articulo como refencia 14-03-22
 https://www.sciencedirect.com/science/article/pii/S0021782418300898
@@ -57,3 +57,7 @@ https://www.sciencedirect.com/science/article/pii/S0021782418300898
 Video que explica mejor las funciones de python https://youtu.be/2f5aRTBmm10 
 
 ## Agregar una interacción mas con los resultados de la primer interacción
+
+## Entender las ecuaciones diferenciales y el modelo de Runge-Kutta 04-04-22 
+https://relopezbriega.github.io/blog/2016/01/10/ecuaciones-diferenciales-con-python/
+
