@@ -64,4 +64,4 @@ https://relopezbriega.github.io/blog/2016/01/10/ecuaciones-diferenciales-con-pyt
 
 ## Agregar una tercera especie 18-04-22
 http://blog.espol.edu.ec/analisisnumerico/sistemas-edo-modelo-predador-presa/
-
+https://matplotlib.org/2.2.5/tutorials/index.html para poder graficar correctamente
