@@ -65,3 +65,8 @@ https://relopezbriega.github.io/blog/2016/01/10/ecuaciones-diferenciales-con-pyt
 ## Agregar una tercera especie 18-04-22
 http://blog.espol.edu.ec/analisisnumerico/sistemas-edo-modelo-predador-presa/
 https://matplotlib.org/2.2.5/tutorials/index.html para poder graficar correctamente
+
+https://jrbp.stanford.edu/research/publications/gilbreath-susan-1998-lotka-volterra-equation-cladocerans-multiple-species Este articulo habla de Lotka-volterra con varias especies.
+
+## La tercer especie ya esta añadida en la ecuación y en las variables, ahora hay que graficar para tener una grafica de interacción.
+https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html
