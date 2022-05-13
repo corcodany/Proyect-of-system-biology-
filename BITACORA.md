@@ -61,6 +61,7 @@ Video que explica mejor las funciones de python https://youtu.be/2f5aRTBmm10
 
 ## Entender las ecuaciones diferenciales y el modelo de Runge-Kutta 04-04-22 
 https://relopezbriega.github.io/blog/2016/01/10/ecuaciones-diferenciales-con-python/
+https://www.sciencedirect.com/topics/mathematics/runge-kutta-method
 
 ## Agregar una tercera especie 18-04-22
 http://blog.espol.edu.ec/analisisnumerico/sistemas-edo-modelo-predador-presa/
