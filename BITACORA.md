@@ -53,7 +53,7 @@ Esta libreria en github explica mejor(https://github.com/smkalami/lotka-volterra
 
 ## Usar estos articulos como refencia 14-03-22
 https://www.sciencedirect.com/science/article/pii/S0021782418300898
-https://www.researchgate.net/profile/Aurora-Maria-Ruiz-Bejarano/publication/346969029_Pautas_para_el_analisis_de_casos_en_la_formacion_inicial_didactica_repensar_la_escuela_infantil_ante_la_pandemia/links/60af6fb892851c168e447706/Pautas-para-el-analisis-de-casos-en-la-formacion-inicial-didactica-repensar-la-escuela-infantil-ante-la-pandemia.pdf#page=413
+
 
 Video que explica mejor las funciones de python https://youtu.be/2f5aRTBmm10 
 
